@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chinamyx0409
-- 👀 I’m interested in python sql, data engineering
+- 👀 I’m into python data science,  sql reporting, data engineering
 - 📫 How to reach me chinamyx0409@gmail.com
 
 import pandas as pd
